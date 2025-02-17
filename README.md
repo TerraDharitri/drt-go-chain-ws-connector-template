@@ -1,0 +1,1 @@
+# drt-go-chain-ws-connector-template
